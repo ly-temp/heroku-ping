@@ -1,0 +1,21 @@
+
+{
+  "name": "heroku-ping",
+  "description": "heroku-ping",
+  "repository": "",
+  "logo": "",
+  "keywords": ["heroku"],
+
+  "website": "",
+  "repository": "",
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    },
+    {
+      "url": "https://github.com/laiyuantemp/heroku-buildpack-apt.git"
+    }
+  ]
+  
+ }

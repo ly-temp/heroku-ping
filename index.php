@@ -1,3 +1,3 @@
 <?php
-  echo "http://".$_SERVER['SERVER_NAME']."/ping/[ping_url]";
+  echo "http://".$_SERVER['SERVER_NAME']."/ping.php/[ping_url]";
 ?>
